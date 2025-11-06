@@ -6,6 +6,16 @@ import { useState } from 'react';
 
 const certificates = [
     {
+        title: 'Oracle APEX Cloud Certified Developer Professional',
+        image: '/certificates/APEX24CDOCP.jpg',
+        pdf: '/certificates/Oracle_APEX_Cloud_Developer_eCertificate.pdf',
+    },
+    {
+        title: 'OCI Certified AI Foundations Associate 2025',
+        image: '/certificates/OCI25AICFA.jpeg',
+        pdf: '/certificates/OCI_Certified_AI_Foundations_Associate_eCertificate.pdf',
+    },
+    {
         title: 'React Native Certificate',
         image: '/certificates/react-native-certificate.jpg',
         pdf: '/certificates/react-native-certificate.pdf',
