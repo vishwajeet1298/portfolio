@@ -78,7 +78,9 @@ const Hero: React.FC = () => {
 
                 <div className="text-gray-400 space-y-4 leading-relaxed">
                     <p>
-                        I’m a passionate and versatile software developer with a strong foundation in both frontend and backend technologies, system administration, and quality assurance. My journey in tech has been driven by curiosity, continuous learning, and a desire to build impactful digital solutions.
+                    Cybersecurity and Quality Assurance professional with proven expertise in VAPT, SIEM monitoring, and cloud security audits across AWS and Azure. 
+                    Skilled in Salesforce testing, API validation, and ETL processes, ensuring compliance with HIPAA and regulatory standards. 
+                    Experienced in mobile development using React Native, AEM content management, and data analytics dashboards, driving efficiency, reducing risks, and delivering secure, high-quality solutions.
                     </p>
 
 
@@ -88,9 +90,9 @@ const Hero: React.FC = () => {
                     </h3>
 
                     <ul className="list-disc list-inside ml-4 space-y-1">
+                    <li><strong>System & Cloud Administration:</strong> Proficient in Red Hat Linux System Administration, configuring and troubleshooting Windows and Linux operating systems.</li>
                         <li><strong>Frontend & Mobile Development:</strong> Skilled in building responsive and scalable applications using React Native and Next.js, with a focus on performance and user experience.</li>
                         <li><strong>CMS & QA:</strong> Experienced in Adobe Experience Manager (AEM) for content authoring and Salesforce QA, having tested across SIT, UAT, and RUAT environments to ensure robust and reliable releases.</li>
-                        <li><strong>System & Cloud Administration:</strong> Proficient in Red Hat System Administration, with hands-on experience configuring and troubleshooting Windows and Linux operating systems.</li>
                         <li><strong>Software Development Lifecycle:</strong> Well-versed in SDLC and STLC, ensuring quality and efficiency throughout the development and testing phases.</li>
                     </ul>
 
@@ -101,7 +103,7 @@ const Hero: React.FC = () => {
                     </h3>
 
                     <p>
-                        My long-term goal is to become an IT Security Analyst, contributing to the future of cybersecurity in the age of Agentic AI and Quantum Computing. I aim to develop secure, intelligent systems that protect data and empower innovation.
+                        My long-term goal is to become an CyberSecurity Engineer, contributing to the future of Cybersecurity in the age of Agentic AI and Quantum Computing. I aim to develop secure, intelligent systems that protect data and empower innovation.
                     </p>
 
 
